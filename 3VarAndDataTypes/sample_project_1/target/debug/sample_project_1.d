@@ -1,0 +1,1 @@
+/Users/navneetsingh/Documents/GitHub/rust-programming/3VarAndDataTypes/sample_project_1/target/debug/sample_project_1: /Users/navneetsingh/Documents/GitHub/rust-programming/3VarAndDataTypes/sample_project_1/src/main.rs
